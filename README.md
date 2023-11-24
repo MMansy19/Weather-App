@@ -26,18 +26,10 @@ This is a simple weather forecasting application that fetches real-time weather 
 
 
 
-# Weather Forecast App
-
-
 ## Features
 - Retrieves weather data including temperature, humidity, wind speed, pressure, and precipitation.
 - Clean and intuitive GUI design.
 - Error handling for user input and API requests.
-
-## Installation
-1. Clone the repository: `git clone https://github.com/MMansy19/weather-forecast-app.git`
-2. Navigate to the project directory: `cd weather-forecast-app`
-3. Install the required dependencies: `pip install -r requirements.txt`
 
 ## Usage
 1. Run the application: `python weather_app.py`
