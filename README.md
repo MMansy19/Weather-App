@@ -3,9 +3,9 @@
 ## Description
 This is a simple weather forecasting application that fetches real-time weather data using Tomorrow.io API based on the user's entered location.
 
-![Planning](images/Planning.jpg)
-![UI](UI_1.jpeg)
-![UI](UI_2.jpeg)
+![Planning](Final_Project/images/Planning.jpg)
+![UI](Final_Project/images/UI_1.jpeg)
+![UI](Final_Project/images/UI_2.jpeg)
 
 
 
