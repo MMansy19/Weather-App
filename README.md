@@ -3,9 +3,12 @@
 ## Description
 This is a simple weather forecasting application that fetches real-time weather data using Tomorrow.io API based on the user's entered location.
 
+## Planning Using Miro.com
 ![Planning](Final_Project/images/Planning.jpg)
+
+## Final UI:
 ![UI](Final_Project/images/UI_1.jpeg)
-![UI](Final_Project/images/UI_2.jpeg)
+![UI](Final_Project/images/UI_2.png)
 
 
 
