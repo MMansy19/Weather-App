@@ -3,6 +3,12 @@
 ## Description
 This is a simple weather forecasting application that fetches real-time weather data using Tomorrow.io API based on the user's entered location.
 
+![Planning](images/Planning.jpg)
+![UI](UI_1.jpeg)
+![UI](UI_2.jpeg)
+
+
+
 ## Prerequisites
 - Python 3.7 or higher
 - Tkinter GUI framework
